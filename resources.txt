@@ -1,0 +1,65 @@
+
+https://www.appbrewery.co/p/web-development-course-resources/
+w3schools heading tag
+mdn heading tag
+https://devdocs.io/html/
+
+analogus color https://colorhunt.co/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+
+favicon ---https://favicon.io/
+
+
+Analogus color wheel  https://color.adobe.com/create/color-wheel
+
+
+https://www.canva.com/en_in/
+https://www.dailyui.co/
+https://www.cssfontstack.com/
+
+https://fonts.google.com/?query=
+
+
+practice Frontend https://www.frontendmentor.io/challenges
+
+
+Bootstrap link
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+design https://dribbble.com/shots
+
+wire framing https://sneakpeekit.com/
+             https://balsamiq.cloud/spaces
+
+
+font awesome
+https://fontawesome.com/
+
+bootsnip
+https://bootsnipp.com/
+
+mobile friendly test 
+https://search.google.com/test/mobile-friendly
+
+
+
+
+java Script
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+DOM
+https://www.w3schools.com/jsref/dom_obj_style.asp
+
+
+https://developers.google.com/speed/libraries#jquery
+
+
+
+https://www.minifier.org/
+
+
+https://www.npmjs.com/
